@@ -1,0 +1,21 @@
+/* style.css */
+
+.odd-numbers {
+   background-color: rgba(255, 192, 203, 1);
+   font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#number2 {
+    color: rgba(0, 0, 255, 1);
+    font-size: 36px;
+}
+
+#number3 {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: rgba(144, 238, 144, 1);
+    font-size: 24px;
+    font-weight: 700;
+}
